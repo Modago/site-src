@@ -9,8 +9,8 @@ My teaching responsibilities have mainly focused on graduate education.I have ta
 ### Course Listing 
 
 **The Next Generation of the Web**
-* 28 students, Spring 2018, University of Oulu
 
+* 28 students, Spring 2018, University of Oulu
 * Aims of the course:
 	* Analyse the characteristics of various web-based technologies
 	* Understand how the future Web will be shaped by ongoing trends and technological improvements
@@ -31,7 +31,6 @@ These two courses focus on recognising and reflecting on on-going and potential 
 **Systems Design Methods for Information Systems**
 
 * 56 students, Autumn 2018
-
 * Aims of the course:
 	* To understand the complexity of business, organisational, technical, and human aspects of information systems development (ISD).
 	* To understand the limitations of traditional ISD approaches, how contemporary approaches address these limitations and other challenges in ISD.
