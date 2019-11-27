@@ -1,3 +1,3 @@
 # site-src
 
-Source files for my site
+Source files for my website
