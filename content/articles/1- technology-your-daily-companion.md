@@ -1,5 +1,5 @@
 Title: Technology, your daily companion and more if only you let it
-Date: 2018-9-12 22:21
+Date: 2019-9-12 22:21
 Tags: persuasive systems, technology, behaviour
 Slug: technology-your-daily-companion
 Author: Michael O
