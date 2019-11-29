@@ -17,7 +17,7 @@ My research interests include:
   		<li>Persuasive systems (design) and behaviour change. </li>
   		<li>Use and adoption of digital services. </li>
   		<li>Understanding users' decision-making processes and psychological aspects of change.</li>
-  		<li>Identifying ways in which technology could address the needs of the marginalised and designing digital interventions to cater to these needs. *** </li>
+  		<li>Identifying ways in which technology could address the needs of the marginalised and designing digital interventions to cater to these needs.</li>
 	</ul> 
 	 
 Other interests:
