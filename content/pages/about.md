@@ -25,7 +25,7 @@ Other interests:
 	<li>Social Network Analysis.</li>
 	<li>[Location-based social media analysis](https://suboulu.wordpress.com)</li>
 	<li>[Principles and applications of digital fabrication](http://fabacademy.org/2019/labs/oulu/students/michael-oduor/)</li>
-		<ul><li>All the files for the assignments be found in my [Gitlab](https://gitlab.fabcloud.org/academany/fabacademy/2019/labs/oulu/students/michael-oduor) account.</li>
+		<ul><li>All the files for the assignments can be found in my [Gitlab](https://gitlab.fabcloud.org/academany/fabacademy/2019/labs/oulu/students/michael-oduor) account.</li>
 		</ul>
 </ul>
 
