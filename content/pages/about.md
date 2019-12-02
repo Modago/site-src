@@ -42,7 +42,7 @@ I also enjoy participating in voluntary activities. I have been part of clubs an
 
 Michael Oduor  
 [OASIS](https://www.oulu.fi/oasis/) Research Unit   
-University of Oulu, Faculty of Information Technology and Electrical Engineering.  
+Faculty of Information Technology and Electrical Engineering  
 University of Oulu    
 P.O.Box 3000, 90014,    
 Oulu, Finland 
