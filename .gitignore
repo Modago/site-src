@@ -106,7 +106,6 @@ venv.bak/
 *~
 ._*
 *.lock
-*.DS_Store
 *.dat
 *.swp
 *.out
@@ -119,6 +118,7 @@ venv.bak/
 !*.jar
 *.tox
 
+.DS_Store
 cache/
 output/
 drafts/
