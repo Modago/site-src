@@ -36,7 +36,7 @@ Other interests:
 
 Football has been part of my life for as long as I can remember. As with my dream of making the world a better place, I haven't had the fortitude to pursue football beyond the amateur level and my time is now long gone (if there ever was such a time 😌). In addition to football and following other sports like athletics, I enjoy playing scrabble and at times chess (but it has been a while since I played chess), listening to music (at times very loudly), reading (mostly psychological, design and business-related books, but I can pretty much read anything), writing (when the motivation strikes!), occasionally binge-watching tv programmes and generally meeting people.
 
-I also enjoy participating in voluntary activities. I have been part of clubs and associations such as [Rotaract](https://en.m.wikipedia.org/wiki/Rotaract) in Kenya and  [AIESEC](https://aiesec.org) at the university of Oulu which focus on teamwork, members' personal development and community service. In addition to volunteering for Plan Finland and participating in several community engagement events, for Plan and other associations throughout the years.
+I also enjoy participating in voluntary activities. I have been part of clubs and associations such as [Rotaract](https://en.m.wikipedia.org/wiki/Rotaract) in Kenya and  [AIESEC](https://aiesec.org) at the university of Oulu which focus on teamwork, members' personal development and community service. In addition to volunteering for Plan Finland and other associations throughout the years.
 
 ## Contact
 
