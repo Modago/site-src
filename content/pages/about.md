@@ -17,7 +17,7 @@ My research interests include:
   		<li>Persuasive systems (design) and behaviour change. </li>
   		<li>Use and adoption of digital services. </li>
   		<li>Understanding users' decision-making processes and psychological aspects of change.</li>
-  		<li>Identifying ways in which technology could address the needs of the marginalised and designing digital interventions to cater to these needs.</li>
+  		<li>Identifying ways in which technology could address the needs of the marginalised.</li>
 	</ul> 
 	 
 Other interests:
@@ -29,8 +29,6 @@ Other interests:
 		</ul>
 </ul>
 
-
-
  
 ### Hobbies
 
@@ -38,10 +36,10 @@ Football has been part of my life for as long as I can remember. As with my drea
 
 I also enjoy participating in voluntary activities. I have been part of clubs and associations such as [Rotaract](https://en.m.wikipedia.org/wiki/Rotaract) in Kenya and  [AIESEC](https://aiesec.org) at the university of Oulu which focus on teamwork, members' personal development and community service. In addition to volunteering for Plan Finland and other associations throughout the years.
 
-## Contact
+### Contact
 
 Michael Oduor  
-[OASIS](https://www.oulu.fi/oasis/) Research Unit   
+[OASIS Research Unit](https://www.oulu.fi/oasis/)  
 Faculty of Information Technology and Electrical Engineering  
 University of Oulu    
 P.O.Box 3000, 90014,    
@@ -49,7 +47,7 @@ Oulu, Finland
 
 Email: firstname.lastname(at)oulu.fi
 
-### Find me online
+#### Find me online
 
 <ul class="list-group social">
 	<li class="list-group-item"><a href="https://twitter.com/oduorm"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
