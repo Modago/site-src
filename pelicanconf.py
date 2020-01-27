@@ -74,7 +74,7 @@ PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites', 'liquid_tags.img', 
            'liquid_tags.video',  'liquid_tags.include_code',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'series', 'tipue_search']
+           'series']
 
 
 # for Tique Search Plugin
