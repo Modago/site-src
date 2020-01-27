@@ -136,13 +136,6 @@ TAG_SAVE_AS = 'tags/{slug}.html'
 #The location to save the tag list.
 TAGS_URL = 'tags.html'
 
-# DISPLAY_TAGS_INLINE = True
-
-# RECENT_POST_COUNT = 5
-# DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
-# A list of glob patterns.
-IGNORE_FILES = ['.#*', '__pycache__']
-
 # Generate archive
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 
@@ -151,6 +144,14 @@ NEWEST_FIRST_ARCHIVES = True
 
 # When creating a short summary of an article, this will be the default length (measured in words) of the text created. 
 SUMMARY_MAX_LENGTH = 100
+
+# DISPLAY_TAGS_INLINE = True
+
+# RECENT_POST_COUNT = 5
+# DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+# A list of glob patterns.
+IGNORE_FILES = ['.#*', '__pycache__']
+
 
 # If set to True, several typographical improvements will be incorporated into the generated HTML
 TYPOGRIFY = True

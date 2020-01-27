@@ -14,7 +14,7 @@ My PhD research focused on behaviour change and the design of persuasive systems
 The dissertation's main aim was to investigate how the design of persuasive systems could be improved.  The dissertation consisted of a literature review, two quantitative studies, and two constructive studies that outlined the use of software design patterns to develop BCSSs.
 The research suggested that users have different preferences and perceptions on systems use and because of other factors beyond their conscious control, they might not use systems as originally intended. There is a need to have a deep understanding of the problem area–users and the contexts they own. Therefore, in order to develop appropriate recommendations and guidance for users, developers need to understand how different persuasive strategies facilitate user engagement, social interaction and how the strategies can help to counterbalance factors that lead to the failure of digital interventions. Overall, the results reveal that integrating judgement and decision-making research explaining why people deviate from expected behaviour and software design patterns can help to improve the development and efficacy of BCSSs.  
 
-An overview of my research is available from [here](https://www.oulu.fi/blogs/science-with-arctic-attitude/persuasive-systems).
+An overview of my research is available from <a href= "https://www.oulu.fi/blogs/science-with-arctic-attitude/persuasive-systems" target="_blank">here</a>.
 
 ### Current and Future Research
 
