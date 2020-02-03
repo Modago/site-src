@@ -15,9 +15,9 @@
         <div class="col-sm-4">
           <h3>Find me online</h3>
           <ul class="list-group social">
-            <li class="list-group-item"><a href="https://twitter.com/oduorm"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
-            <li class="list-group-item"><a href="https://www.linkedin.com/in/michaeloduor/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
-            <li class="list-group-item"><a href="https://github.com/Modago"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+            <li class="list-group-item"><small><a href="https://twitter.com/oduorm"><i class="fa fa-twitter-square fa-lg"></i>Twitter</a></small></li>
+            <li class="list-group-item"><small><a href="https://www.linkedin.com/in/michaeloduor/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></small></li>
+            <li class="list-group-item"><small><a href="https://github.com/Modago"><i class="fa fa-github-square fa-lg"></i> GitHub</a></small></li>
           </ul> 
         </div>
       </div>
@@ -32,12 +32,12 @@
          {% else %}
             {% set copy_date = '' %}
          {% endif %}
-         <div class="col-xs-10">&copy; {{ copy_date }} {{ AUTHOR }}
+         <div class="col-xs-10">&copy; <small>{{ copy_date }} {{ AUTHOR }}
             &middot; {{ _('Powered by') }} <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
             {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
-              {% from 'includes/cc-license.html' import cc_license_mark %}
+              {% from 'includes/cc-license.html' import cc_license_mark %} </small>
                 <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL,'lang':DEFAULT_LANG}) }}</small></p>
             {% elif CUSTOM_LICENSE %}
               <p><small>{{ CUSTOM_LICENSE }}</small></p>

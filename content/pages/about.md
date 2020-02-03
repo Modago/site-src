@@ -36,23 +36,5 @@ Football has been part of my life for as long as I can remember. As with my drea
 
 I also enjoy participating in voluntary activities. I have been part of clubs and associations such as <a href= "https://en.m.wikipedia.org/wiki/Rotaract" target="_blank">Rotaract</a> in Kenya and <a href= "https://aiesec.org" target="_blank">AIESEC</a> at the university of Oulu which focus on teamwork, members' personal development and community service. In addition to volunteering for Plan Finland and other associations throughout the years.
 
-### Contact
-
-Michael Oduor  
-<a href= "https://www.oulu.fi/oasis/" target="_blank">OASIS research unit</a>  
-Faculty of Information Technology and Electrical Engineering  
-University of Oulu    
-P.O.Box 3000, 90014,    
-Oulu, Finland 
-
-Email: firstname.lastname(at)oulu.fi
-
-#### Find me online
-
-<ul class="list-group social">
-	<li class="list-group-item"><a href="https://twitter.com/oduorm"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
-    <li class="list-group-item"><a href="https://www.linkedin.com/in/michaeloduor/"><i class="fa fa-linkedin-square fa-lg"></i> Linkedin</a></li>
-    <li class="list-group-item"><a href="https://github.com/Modago"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
-</ul>
     
    
