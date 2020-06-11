@@ -76,6 +76,10 @@ PLUGINS = ['i18n_subsites', 'liquid_tags.img',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'series']
 
+'''
+'tag_cloud',
+'pelican_youtube',
+'''
 
 # for Tique Search Plugin
 DIRECT_TEMPLATES = ('index','tags', 'categories', 'authors', 'archives', 'search')
@@ -90,11 +94,6 @@ JINJA_ENVIRONMENT = {
 }
 
 I18N_TEMPLATES_LANG = 'en'
-
-'''
-'tag_cloud',
-'pelican_youtube',
-'''
 
 ####################### Theme-Specific Settings #########################   
 THEME = 'pelican-themes/pelican-bootstrap3'
@@ -123,6 +122,7 @@ ARTICLE_SAVE_AS = 'articles/{slug}.html'
 
 #The URL we will use to link to a page.
 PAGE_URL = '{slug}.html'
+
 #The location we will save the page. 
 #This value has to be the same as PAGE_URL or you need to use a rewrite in your server config.
 PAGE_SAVE_AS = '{slug}.html'

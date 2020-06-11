@@ -1,4 +1,13 @@
 Title: Projects
+Author: Michael Oduor
+
+## Urban Lifestyle Engineering
+
+***Healthier, happier and more sustainable cities***
+
+Urban planning and public services face a number of common challenges. New strategies and models are needed for future urban environments to better respond to human needs, environmental conditions and market dynamics. The  project takes a human-centred and multidisciplinary approach to urban planning that is aimed at improving the delivery of services and the wellbeing and health of its citizens. This is by proposing the engineering of urban environments to promote sustainable and healthier behaviours and encourage socially inclusive practices. The expected impacts of the project are increased civic engagement, improved health of citizens, decrease in social exclusion and effective use of resources.  
+
+The project is supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank">PoDoCo</a> foundation pool.
 
 
 ## SEWEB
@@ -29,5 +38,5 @@ The other research theme in the **Someletti** project was user persuasion. Espec
 	<li>Ideas from the Masters thesis also led to: Oduor, M., Alahäivälä, T., & Oinas-Kukkonen, H. (2014). Persuasive software design patterns for social influence. Personal and Ubiquitous Computing, 18(7), 1689–1704.    https://doi.org/10.1007/s00779-014-0778-z and</li>  	<li>Oduor, M., Alahäivälä, T., & Oinas-Kukkonen, H. (2017). Software Design Patterns for Persuasive Computer–Human Dialogue: Reminder, Reward, and Instant Feedback. In L. Little, E. Sillence, & A. B. T.-B. C. R. and T. Joinson (Eds.), Behavior Change Research and Theory: Psychological and Technological Perspectives (pp. 47–67). San Diego: Academic Press. https://doi.org/https://doi.org/10.1016/B978-0-12-802690-8.00003-7</li>
 </ul>
 
-More information about the projects from <a href= "https://www.oulu.fi/oasis/node/58294" target="_blank">here</a>.</li>
+More information about **SEWEB** and **Someletti** projects from <a href= "https://www.oulu.fi/oasis/node/58294" target="_blank">here</a>.</li>
    
