@@ -8,7 +8,7 @@ I am an "out-going introvert" from Kenya who's been living in Finland for over 1
 
 After years of contemplation (and starting and stopping one or two personal blogs), it was about time to have a place to share thoughts, learn, test ideas and along the way maybe educate one or two! 
 
-I earned my <a href= "http://jultika.oulu.fi/Record/isbn978-952-62-1885-4" target="_blank">PHD</a>  in information processing science from the Faculty of Information Technology and Electrical Engineering, University of Oulu in the Spring of 2018. Until recently, I was working part-time as a post-doctoral researcher at the University of Oulu. I will soon start working as a Project researcher in collaboration with <a href="https://navico.fi/timo/" target="_blank">Timo Perälä</a> from Navico Oy. An overview of the project [here](https://mattersearthly.co/projects.html).
+I earned my <a href= "http://jultika.oulu.fi/Record/isbn978-952-62-1885-4" target="_blank">PHD</a>  in information processing science from the Faculty of Information Technology and Electrical Engineering, University of Oulu in the Spring of 2018. Until recently, I was working part-time as a post-doctoral researcher at the University of Oulu. Soon, I will start working on a project in collaboration with an Oulu-based [urban planning and design agency](https://navico.fi/etusivu/). An overview of the project [here](https://mattersearthly.co/projects.html).
 
 My research has been about the design of persuasive systems, understanding human behaviour and how technology influences and can be used to change/shape human behaviour for the better. 
 
