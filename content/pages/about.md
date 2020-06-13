@@ -35,7 +35,8 @@ Football has been part of my life for as long as I can remember. As with my drea
 I also enjoy participating in voluntary activities. I have been part of clubs and associations such as <a href= "https://en.m.wikipedia.org/wiki/Rotaract" target="_blank">Rotaract</a> in Kenya and <a href= "https://aiesec.org" target="_blank">AIESEC</a> at the university of Oulu which focus on teamwork, members' personal development and community service. In addition to volunteering for <a href= "https://plan.fi" target="_blank">Plan Finland</a>, <a href= "https://jshercules.com/etusivu/" target="_blank">Hercules Football Club</a> and other organisations throughout the years.
 
 ![Photograph](../images/SKR_4E5A8280.jpg)
+<br><small>Photo by <a href= "https://kotacollective.com/harri-tarvainen" target="_blank">Harri Tarvainen</a></small> 
 
 
-    
+   
    
