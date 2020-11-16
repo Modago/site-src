@@ -3,7 +3,7 @@ Author: Michael Oduor
 
 ## Urban Lifestyle Engineering
 
-***Healthier, happier and more sustainable cities***
+***Healthier, happier and more sustainable cities - 2020-***
 
 Urban planning and public services face a number of common challenges. New strategies and models are needed for future urban environments to better respond to human needs, environmental conditions and market dynamics. The  project takes a human-centred and multidisciplinary approach to urban planning that is aimed at improving the delivery of services and the wellbeing and health of its citizens. This is by proposing the engineering of urban environments to promote sustainable and healthier behaviours and encourage socially inclusive practices. The expected impacts of the project are increased civic engagement, improved health of citizens, decrease in social exclusion and effective use of resources.  
 
