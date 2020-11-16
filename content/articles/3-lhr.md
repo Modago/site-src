@@ -3,7 +3,7 @@ Date: 2020-10-17 21:55
 Tags: physical activity, technology, augmented reality
 Slug: good-for-hood
 Author: Michael O
-Series: urban-lifestyle-engineering
+Series: Urban Lifestyle Engineering
 Series_index: 1
  
 
