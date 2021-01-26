@@ -18,6 +18,7 @@ My research interests include:
   		<li>Use and adoption of digital services. </li>
   		<li>Understanding users' decision-making processes and psychological aspects of behaviour change.</li>
   		<li>Digital interventions for the marginalised in society.</li>
+  		<li>Community-wide interventions for active mobility.</li>
 	</ul> 
 	 
 Other interests:
