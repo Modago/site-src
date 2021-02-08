@@ -1,5 +1,6 @@
 Title: About Me
 Author: Michael Oduor
+Menulabel: About
 
 
 ### My background

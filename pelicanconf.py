@@ -15,7 +15,7 @@ TIMEZONE = 'Europe/Helsinki'
 
 DEFAULT_LANG = u'en'
 
-# CC_LICENSE = "CC-BY-NC-SA"
+CC_LICENSE = "CC-BY-NC-SA"
 
 # Where to output the generated files.
 OUTPUT_PATH = 'output/'
@@ -33,14 +33,17 @@ DELETE_OUTPUT_DIRECTORY = True
 CUSTOM_CSS = 'static/custom.css'
 CUSTOM_JS = 'static/custom.js'
 
-STATIC_PATHS = [ 'images', '../CNAME', 'extra/custom.css', 'extra/custom.js', 'extra/robots.txt' ]
+STATIC_PATHS = [ 'images', '../CNAME', 'extra',]
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
     'extra/custom.js': {'path': 'static/custom.js'},
     'extra/robots.txt': {'path': 'robots.txt'},
+    #'extra/favicon.ico': {'path': 'favicon.ico'},
     '../CNAME': {'path': 'CNAME'}
 }
+
+FAVICON = 'images/favicon.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -61,9 +64,6 @@ SOCIAL = (('Twitter', 'https://twitter.com/oduorm'),
 
 #TWITTER_CARDS = True
 
-DEFAULT_PAGINATION = 5
-
-
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
@@ -71,15 +71,22 @@ DEFAULT_PAGINATION = 5
 ############################ Plugins ######################################
 PLUGIN_PATHS = ['plugins']
 
-PLUGINS = ['i18n_subsites', 'liquid_tags.img', 
-           'liquid_tags.video',  'liquid_tags.include_code',
-           'liquid_tags.youtube', 'liquid_tags.vimeo',
+PLUGINS = ['i18n_subsites', 'liquid_tags',
            'series']
 
 '''
+'post_stats'
 'tag_cloud',
 'pelican_youtube',
+'share_post',
+'neighbors', 'extract_toc'
 '''
+
+# for series plugin - display information on the series just under the article title setting 
+# SHOW_SERIES = True
+
+# for share_post plugin
+#SHARE_LINKS = [ ('twitter', 'Twitter'), ('facebook', 'Facebook'), ('email', 'Email') ]
 
 # for Tique Search Plugin
 DIRECT_TEMPLATES = ('index','tags', 'categories', 'authors', 'archives', 'search')
@@ -88,12 +95,22 @@ DIRECT_TEMPLATES = ('index','tags', 'categories', 'authors', 'archives', 'search
 # False to disable pagination.
 DEFAULT_PAGINATION = 5
 
+'''for ToC plugin
+MARKDOWN = {
+  'extension_configs': {
+    'markdown.extensions.toc': {}
+  }
+}
+'''
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n']
 }
 
-I18N_TEMPLATES_LANG = 'en'
+# specify a lower limit for post_stats feature.
+READING_TIME_LOWER_LIMIT = 10
+
+# I18N_TEMPLATES_LANG = 'en'
 
 ####################### Theme-Specific Settings #########################   
 THEME = 'pelican-themes/pelican-bootstrap3'
@@ -147,8 +164,6 @@ SUMMARY_MAX_LENGTH = 100
 
 # DISPLAY_TAGS_INLINE = True
 
-# RECENT_POST_COUNT = 5
-# DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 # A list of glob patterns.
 IGNORE_FILES = ['.#*', '__pycache__']
 
@@ -158,9 +173,20 @@ TYPOGRIFY = True
 
 HIDE_SIDEBAR = True
 
+# RECENT_POST_COUNT = 5
+# DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+
 # Specifies where you want the slug to be automatically generated from.
 # Can be set to title to use the ‘Title:’ metadata tag or basename to use the article’s file name when creating the slug
 SLUGIFY_SOURCE = 'title'
 
 # If disabled, content with dates in the future will get a default status of draft.
 WITH_FUTURE_DATES = True
+
+# Pagination
+USE_PAGER = True
+
+# DISPLAY_BREADCRUMBS = True
+
+# DISPLAY_CATEGORY_IN_BREADCRUMBS = True
+
