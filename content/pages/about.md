@@ -9,7 +9,7 @@ I am an "out-going introvert" from Kenya who's been living in Finland for over 1
 
 After years of contemplation (and starting and stopping one or two personal blogs), it was about time to have a place to share thoughts, learn, test ideas and along the way maybe educate one or two! 
 
-I earned my <a href= "http://jultika.oulu.fi/Record/isbn978-952-62-1885-4" target="_blank">PHD</a>  in information processing science from the Faculty of Information Technology and Electrical Engineering, University of Oulu in the Spring of 2018. Until recently, I was working part-time as a post-doctoral researcher at the University of Oulu. Soon, I will start working on a project in collaboration with an Oulu-based [urban planning and design agency](https://navico.fi/etusivu/). An overview of the project [here](https://mattersearthly.co/projects.html).
+I earned my <a href= "http://jultika.oulu.fi/Record/isbn978-952-62-1885-4" target="_blank">PHD</a>  in information processing science from the Faculty of Information Technology and Electrical Engineering, University of Oulu in the Spring of 2018. In July 2020, I started working on a project in collaboration with an Oulu-based [urban planning and design agency](https://navico.fi/etusivu/). An overview of the project [here](https://mattersearthly.co/projects.html).
 
 My research has been about the design of persuasive systems, understanding human behaviour and how technology influences and can be used to change/shape human behaviour for the better. 
 
@@ -38,6 +38,29 @@ I also enjoy participating in voluntary activities. I have been part of clubs an
 
 ![Photograph](../images/SKR_4E5A8280.jpg)
 <br><small>Photo by <a href= "https://kotacollective.com/harri-tarvainen" target="_blank">Harri Tarvainen</a></small> 
+
+<hr>
+<div class="row">
+        <div class="col-sm-8">
+          <h3>Contact</h3> 
+          <small>Michael Oduor </small> 
+          <!--<br> <small><a href= "https://www.oulu.fi/oasis/" target="_blank">OASIS research unit</a></small> -->
+          <br><small>Faculty of Information Technology and Electrical Engineering</small>  
+          <br><small>University of Oulu</small>    
+          <br><small>P.O.Box 3000, 90014,</small>    
+          <br><small>Oulu, Finland</small> 
+          <br><small>Email: firstname.lastname(at)oulu.fi</small>
+        </div>
+        <div class="col-sm-4">
+          <h3>Find me online</h3>
+          <ul class="list-group social">
+            <li class="list-group-item"><small><a href="https://twitter.com/oduorm"><i class="fa fa-twitter-square fa-lg"></i>Twitter</a></small></li>
+            <li class="list-group-item"><small><a href="https://www.linkedin.com/in/michaeloduor/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></small></li>
+            <li class="list-group-item"><small><a href="https://github.com/Modago"><i class="fa fa-github-square fa-lg"></i> GitHub</a></small></li>
+          </ul> 
+        </div>
+      </div>
+      <hr>
 
 
    
