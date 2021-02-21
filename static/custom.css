@@ -13,6 +13,11 @@ body {
     padding: 6px 13px;
 
 }
+.bigger {
+  font-size: larger;
+  font-style: italic;
+  color:#696A6A;
+}
 
 /*
 #bg-image.lazy {
@@ -45,7 +50,7 @@ figure {
 
 figcaption {
   /*background-color: black;*/
-  color: #969899;
+  color: #696A6A;
   font-style: italic;
   padding: 2px;
   text-align: center;
