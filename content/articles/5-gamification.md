@@ -10,7 +10,7 @@ Gamification grew from a mix of interacting trends and traditions in interaction
 
 The levels of game design elements outlined in Deterding et al.[^1] are presented in the table below.
 
-<table>
+<table class="table">
   <thead>
     <tr>
     	<th>Level</th>

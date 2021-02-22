@@ -11,6 +11,11 @@ body {
     max-width: 100%;
     margin-bottom: 21px;
     padding: 6px 13px;
+}
+
+th {
+  background: #E6E8E8;
+  #border-color: white;
 
 }
 .bigger {
