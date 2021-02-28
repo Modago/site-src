@@ -7,7 +7,7 @@ Series: Urban Lifestyle Engineering
 Series_index: 2
 
 <p>
-<span class="bigger"> We conducted a study to explore how to encourage active mobility and tested participant’s experience and perceptions of a web-based AR application used during an open sports day.</span>
+<span class="bigger"> We conducted a study to explore how to encourage active mobility and tested participants' experience and perceptions of a web-based AR application used during an open sports day.</span>
 </p>
 <br>
 
