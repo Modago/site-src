@@ -7,7 +7,7 @@ Series: Urban Lifestyle Engineering
 Series_index: 2
 
 <p>
-<span class="bigger"> We conducted a study to explore how to encourage active mobility and tested people’s experience and perceptions of a web-based AR application used during an open sports day.</span>
+<span class="bigger"> We conducted a study to explore how to encourage active mobility and tested participant’s experience and perceptions of a web-based AR application used during an open sports day.</span>
 </p>
 <br>
 
@@ -30,7 +30,7 @@ Once scanned, they displayed a video and a code. The video showed the challenge,
   <figcaption><b>Figure 2.</b> Number of downloads at each checkpoint</figcaption>
 </figure>
 
-Overall, participations perceptions of the AR application and its usability were mostly positive. Some particularly enjoyed how the application revealed the challenges at each location. The pilot study provided a good example of how to integrate gameful experiences with the aid of technology into the physical environment. It served as a basis for future work where we plan to use motivation techniques such as gamification to encourage active mobility, social interaction, and sustainable use of urban resources.
+Overall, participants' perceptions of the AR application and its usability were mostly positive. Some particularly enjoyed how the application revealed the challenges at each location. The pilot study provided a good example of how to integrate gameful experiences with the aid of technology into the physical environment. It served as a basis for future work where we plan to use motivation techniques such as gamification to encourage active mobility, social interaction, and sustainable use of urban resources.
 
 [^1]: United Nations. (2018). 68% of the world population projected to live in urban areas by 2050. United Nations - Department of Economic and Social Affairs. https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html 
 [^2]:  World Health Organization (WHO). (n.d.). Physical Inactivity: A Global Public Health Problem. https://www.who.int/teams/health-promotion/physical-activity
