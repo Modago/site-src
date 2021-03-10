@@ -1,12 +1,12 @@
 Title: Gamification 
 Date: 2021-1-17 21:55
-Tags: gamification, motivation
+Tags: gamification, motivation, behaviour
 Slug: gamification
 Author: Michael O
 Series: Urban Lifestyle Engineering
 Series_index: 3
 
-Gamification grew from a mix of interacting trends and traditions in interaction design and games. Gamification describes those features of an interactive system that aim to motivate and engage end-users through the use of game elements and mechanics. The two common definitions of gamification in academic research are by Deterding et al.[^1] and Huotari and Hamari[^2]. The former defines gamification as “use of game design elements in non-game contexts”, whereas the latter defines gamification as a “process of enhancing a service with affordances for gameful experiences in order to support user’s overall value creation.” The key differences are Deterding et al.’s[^1] definition explains how to operationalise gamification (how to apply) and prioritises the game design elements. Huotari and Hamari[^2] is a process description incorporating more than just the system or methods and suggests that the focus should be on the user experience, whatever form the final product might take. Gamification is a process of enriching artefacts with game-design elements in order to positively influence users'[^1]<sup>,</sup>[^2].   
+Gamification grew from a mix of interacting trends and traditions in interaction design and games. Gamification describes those features of an interactive system that aim to motivate and engage end-users through the use of game elements and mechanics. The two common definitions of gamification in academic research are by Deterding et al.[^1] and Huotari and Hamari[^2]. The former defines gamification as “*use of game design elements in non-game contexts*”, whereas the latter defines gamification as a “*process of enhancing a service with affordances for gameful experiences in order to support user’s overall value creation*.” The key differences are Deterding et al.’s[^1] definition explains how to operationalise gamification (how to apply) and prioritises the game design elements. Huotari and Hamari[^2] is a process description incorporating more than just the system or methods and suggests that the focus should be on the user experience, whatever form the final product might take. Gamification is a process of enriching artefacts with game-design elements in order to positively influence users'[^1]<sup>,</sup>[^2].   
 
 The levels of game design elements outlined in Deterding et al.[^1] are presented in the table below.
 

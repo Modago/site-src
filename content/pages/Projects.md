@@ -35,7 +35,12 @@ The other research theme in the **Someletti** project was user persuasion. Espec
 <ul>
 	<li>My <a href= "http://jultika.oulu.fi/Record/nbnfioulu-201304241198" target="_blank">Masters thesis</a> and the resulting publication below</li>
 	<li>Oduor, M., & Oinas-Kukkonen, H. (2015). A System’s Self-referential Persuasion: Understanding the Role of Persuasive User Experiences in Committing Social Web Users. In T. MacTavish & S. Basapur (Eds.), Persuasive Technology: 10th International Conference, PERSUASIVE 2015, Chicago, IL, USA, June 3-5, 2015, Proceedings (pp. 241–252). Chicago, IL, USA: Springer International Publishing. https://doi.org/10.1007/978-3-319-20306-5_22</li>
-	<li>Ideas from the Masters thesis also led to: Oduor, M., Alahäivälä, T., & Oinas-Kukkonen, H. (2014). Persuasive software design patterns for social influence. Personal and Ubiquitous Computing, 18(7), 1689–1704.    https://doi.org/10.1007/s00779-014-0778-z and</li>  	<li>Oduor, M., Alahäivälä, T., & Oinas-Kukkonen, H. (2017). Software Design Patterns for Persuasive Computer–Human Dialogue: Reminder, Reward, and Instant Feedback. In L. Little, E. Sillence, & A. B. T.-B. C. R. and T. Joinson (Eds.), Behavior Change Research and Theory: Psychological and Technological Perspectives (pp. 47–67). San Diego: Academic Press. https://doi.org/https://doi.org/10.1016/B978-0-12-802690-8.00003-7</li>
+	<li>Ideas from the Masters thesis also led to: 
+		<ul style="list-style-type: circle;">
+			<li>Oduor, M., Alahäivälä, T., & Oinas-Kukkonen, H. (2014). Persuasive software design patterns for social influence. Personal and Ubiquitous Computing, 18(7), 1689–1704.    https://doi.org/10.1007/s00779-014-0778-z </li>  			<li>Oduor, M., Alahäivälä, T., & Oinas-Kukkonen, H. (2017). Software Design Patterns for Persuasive Computer–Human Dialogue: Reminder, Reward, and Instant Feedback. In L. Little, E. Sillence, & A. B. T.-B. C. R. and T. Joinson (Eds.), Behavior Change Research and Theory: Psychological and Technological Perspectives (pp. 47–67). San Diego: Academic Press. https://doi.org/https://doi.org/10.1016/B978-0-12-802690-8.00003-7</li>
+		</ul>
+	</li>
+			
 </ul>
 
 More information about **SEWEB** and **Someletti** projects from <a href= "https://www.oulu.fi/oasis/node/58294" target="_blank">here</a>.</li>

@@ -43,13 +43,16 @@ I also enjoy participating in voluntary activities. I have been part of clubs an
 <div class="row">
         <div class="col-sm-8">
           <h3>Contact</h3> 
-          <small>Michael Oduor </small> 
-          <!--<br> <small><a href= "https://www.oulu.fi/oasis/" target="_blank">OASIS research unit</a></small> -->
-          <br><small>Faculty of Information Technology and Electrical Engineering</small>  
-          <br><small>University of Oulu</small>    
-          <br><small>P.O.Box 3000, 90014,</small>    
-          <br><small>Oulu, Finland</small> 
-          <br><small>Email: firstname.lastname(at)oulu.fi</small>
+          <ul style="list-style-type:none;">
+          	<li> <small>Michael Oduor </small> </li>
+          	<li><small>Faculty of Information Technology and Electrical Engineering</small></li>
+          	<li><small>University of Oulu</small></li>
+          	<li><small>P.O.Box 3000, 90014</small> </li>
+          	<li><small>Oulu, Finland</small></li>
+          	<li><small>Email: firstname.lastname(at)oulu.fi</small></li>
+          	<li></li>
+          	<li></li>
+          </ul>      
         </div>
         <div class="col-sm-4">
           <h3>Find me online</h3>
