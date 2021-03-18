@@ -1,4 +1,4 @@
-Title: Reflection on my Doctoral Defence
+Title: Doctoral Defence
 Date: 2018-5-15 23:05
 Tags: PhD, research, doctoral defence
 Slug: doctoral-defence

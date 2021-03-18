@@ -6,7 +6,7 @@ Author: Michael O
 
 
 <p>
-<span class="bigger">Spend 40% of the time writing, 20% actually writing and 40% editing and rewriting.</span>
+<span class="bigger">Spend 40% of the time researching, 20% actually writing and 40% editing and rewriting.</span>
 </p>
 
 Sometime back, I took part in a webinar about academic writing and the issues that lead to challenges when reporting or documenting research. The webinar was hosted by <a href= "https://www.publicationcoach.com" target="_blank">Daphney Grant</a>. The points raised in the webinar are those I have often struggled with in my research and in projects, especially in the initial stages when there is a lack of clarity. A summary of the issues discussed in the webinar. 
