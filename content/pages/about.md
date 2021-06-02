@@ -15,11 +15,12 @@ My research has been about the design of persuasive systems, understanding human
 
 My research interests include:
 	<ul>
-  		<li>Persuasive systems (design). </li>
-  		<li>Use and adoption of digital services. </li>
-  		<li>Understanding users' decision-making processes and psychological aspects of behaviour change.</li>
-  		<li>Digital interventions for the marginalised in society.</li>
-  		<li>Community-wide interventions for active mobility.</li>
+  		<li>Persuasive systems (design) and Gamification </li>
+  		<li>Use and adoption of digital services </li>
+  		<li>Digital Health </li>
+  		<li>Community-wide interventions for sustainable and active mobility</li>
+  		<li>Social and Digital Inclusion</li>
+  		<li>Understanding users' decision-making processes and psychological aspects of behaviour change</li>
 	</ul> 
 	 
 Other interests:
