@@ -95,7 +95,7 @@ Although primarily concentrated in education/training, sustainability and health
 * The lack of a theoretical framework and constructs.
 * Failure to use validated constructs which hinders the development of the field and the understanding of these gamified elements.
 * Failure to test the most effective gamification features
-* The lack of (appropriate objective measures/research
+* The lack of (appropriate) objective measures/research
 * A one-size fits all approach that doesn’t consider individual differences (although research in this area is growing).
 
 [^1]: Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In Proceedings of the 15th International Academic MindTrek Conference on Envisioning Future Media Environments - MindTrek ’11, 9. Tampere, Finland: ACM Press. 

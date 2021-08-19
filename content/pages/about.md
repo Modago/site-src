@@ -25,7 +25,7 @@ My research interests include:
 	 
 Other interests:
 <ul>
-	<li>Social Network Analysis.</li>
+	<li>Data and content analysis</li>
 	<li><a href= "https://suboulu.wordpress.com" target="_blank">Location-based social media analysis</a></li>
 	<li><a href= "http://fabacademy.org/2019/labs/oulu/students/michael-oduor/" target="_blank">Principles and applications of digital fabrication</a></li>
 </ul>

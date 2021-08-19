@@ -1,4 +1,4 @@
-Title: The Challenges in Academic Writing
+Title: The Challenges of Academic Writing
 Date: 2020-8-26 21:10
 Tags: writing, research
 Slug: academic-writing
@@ -27,7 +27,7 @@ Sometime back, I took part in a webinar about academic writing and the issues th
 5. Poor editing skills. Editing should be more specific than just reading the same text repeatedly and trying to make it better. As researchers, we should break the habit of editing while writing and re-reading what we have written right after writing.    
 There are two types of editing: **Substantive (developmental) and copyediting (line)**. 
     - Substantive editing relates entirely to the **content**. Does the material make sense, is it logical, is it persuasive, is everything in the right order, missing information, etc.
-    - Copyediting relates to **rules**. Checking the spelling, average sentence length, antecedents, grammar etc.
+    - Copyediting relates to **rules**. Checking the spelling, average sentence length, antecedents, grammar, etc.
 
     The two types of editing require different approaches. The best way to do substantive editing is to take a break first (incubating). It is important to address your work with fresh eyes, and your eyes will not be fresh if you have recently read your document many times. Ideally, you should have forgotten about what you wrote, and then you will approach the work in a similar mindset to the readers. 
      
@@ -40,11 +40,13 @@ Book recommendation: **The Now Habit by Neal Fiore**.
 7. An accountability system that is too weak. For want of a nail... The small daily goals you cannot achieve because of a lack of accountability. 
 
 Perfectionists tend to procrastinate. Procrastination is about poor impulse control. Perfectionism can be a problem, and we should start forcing ourselves to be less than perfect. For example, by handing in assignments before it feels less than perfect, sharing crappy drafts often... It is more important to get the work done and on time than to do it perfectly. Perfectionism can hold your work back.   
-Book recommendation: **The Checklist Manifesto: If you can talk, you can write**.
+**Book recommendation:** *The Checklist Manifesto: If you can talk, you can write*.
 
 **Rewriting should take time. If you spend 20% of the time to write, then you should have plenty of time for rewriting**.
 
 We should aspire to write crappy first drafts. It should be the goal because if you write something excellent at first, it shows you are spending too much time trying to edit while you are writing and not enough editing after you've had some distance.
+
+
 
 
 
