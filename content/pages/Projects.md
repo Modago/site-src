@@ -3,16 +3,16 @@ Author: Michael Oduor
 
 ## Urban Lifestyle Engineering
 
-***Healthier, happier and more sustainable cities - 2020-***
+***Healthier, happier and more sustainable cities: 2020-2021***
 
 Urban planning and public services face a number of common challenges. New strategies and models are needed for future urban environments to better respond to human needs, environmental conditions and market dynamics. The  project takes a human-centred and multidisciplinary approach to urban planning that is aimed at improving the delivery of services and the wellbeing and health of its citizens. This is by proposing the engineering of urban environments to promote sustainable and healthier behaviours and encourage socially inclusive practices. The expected impacts of the project are increased civic engagement, improved health of citizens, decrease in social exclusion and effective use of resources.  
 
-The project is supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank">PoDoCo</a> foundation pool and is in collaboration with <a href="https://navico.fi/timo/" target="_blank">Timo Perälä</a> from Navico Oy.
+The project was supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank">PoDoCo</a> foundation pool and is in collaboration with <a href="https://navico.fi/timo/" target="_blank">Timo Perälä</a> from Navico Oy.
 
 
 ## SEWEB
 
-***Sensors and social web*** - **2013-2014**
+***Sensors and social web***: **2013-2014**
 
 The target of the project was to create a basis for future health and well-being services by monitoring human ill-being and supporting behaviour change from an early age. By utilising the latest technology, we can monitor users in their everyday life by collecting sensor data for social web applications in real-time. The social web applications can also give feedback instantly (or even proactively), at very specific moments when users have made good or bad decisions affecting their health and well-being. 
 
@@ -20,7 +20,7 @@ The target of the project was to create a basis for future health and well-being
 Kinnunen, M., Ervasti, M., Jutila, M., Pantsar, S., Sesay, A. M., Pääkkönen, S., … Alasaarela, E. (2016). Improving the Well-Being and Safety of Children with Sensors and Mobile Technology. Journal of Technology in Human Services, 34(4), 359–375. https://doi.org/10.1080/15228835.2016.1250028
 
 ## Someletti
-***Social media in the Physical Space of Airports and Shopping Malls*** - **2010-2013**
+***Social media in the Physical Space of Airports and Shopping Malls***: **2010-2013**
 
 
 The project examined seamless integration of social media systems to physical spaces, in addition to development of physical spaces with the help of feedback gathered via social media.

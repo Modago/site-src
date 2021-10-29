@@ -16,13 +16,15 @@ The research suggested that users have different preferences and perceptions on 
 
 An overview of my research is available from <a href= "https://www.oulu.fi/blogs/science-with-arctic-attitude/persuasive-systems" target="_blank">here</a>.
 
-### Current and Future Research
+### Current Research Interests
 
-My current research continues to investigate the design of persuasive and BCSSs and the broader impact of these digital interventions on end users and other stakeholders. Additionally, further planned research  includes investigating how technology can be used to address problems facing the marginalised in society. For example, the homeless.
+My current research continues to investigate the design and impact of  digital interventions on users. Additionally, further research interests  include investigating how technology can be used to address problems facing the marginalised in society and community-based digital approaches to encourage active lifestyles.
 
-Immediate plans for the former include investigating the role of self-regulation, users' need for cognition, goal attributes and user modelling  on behaviour change. This is because users of BCSSs are not homogeneous, they differ in terms of their self-regulatory behaviours, their orientation towards goal setting and in the extent to which they engage in and enjoy difficult cognitive activities[^1]. Because of these differences, users may require various forms of support and tailored persuasive strategies to help them fulfil their primary intent through a system.
+Plans for the former include investigating the role of self-regulation, users' need for cognition, goal attributes and user modelling  on behaviour change. This is because users of BCSSs are not homogeneous, they differ in terms of their self-regulatory behaviours, their orientation towards goal setting and in the extent to which they engage in and enjoy difficult cognitive activities[^1]. Because of these differences, users may require various forms of support and tailored persuasive strategies to help them fulfil their primary intent through a system.
 
-For the latter, the initial exploration of how technology can be used to address the needs of the marginalised is in collaboration with a colleague from Cambridge, United Kingdom. The research focuses on understanding the needs of the under-represented population in society, their experiences of service provision and the outcomes. Under-represented communities could include asylum seekers, low-income communities, those without access to financial services, those living in rural areas[^2] and so on. The primary aims are to understand the needs of the marginalised and to determine how  digital interventions are being used or could be used to meet their needs. 
+For the latter, the exploration of how technology can be used to address the needs of the marginalised was in collaboration with a colleague from Cambridge, United Kingdom. The research focuses on understanding the needs of the under-represented population in society, their experiences of service provision and the outcomes. Under-represented communities could include asylum seekers, low-income communities, those without access to financial services, those living in rural areas[^2] and so on. The primary aims are to understand the needs of the marginalised and to determine how  digital interventions are being used or could be used to meet these needs. 
+
+Community-based digital approaches for active lifestyles includes investigating the role of technology as a mediator of social relationships and its influence on people’s interactions with public spaces.    
 
 [^1]: J. Hamari, L. Hassan, and A. Dias, ‘Gamification, quantified-self or social networking? Matching users’ goals with motivational technology’, User Model. User-adapt. Interact., vol. 28, no. 1, pp. 35–74, 2018.
 
