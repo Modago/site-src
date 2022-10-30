@@ -1,6 +1,16 @@
 Title: Projects
 Author: Michael Oduor
 
+## DIRECT
+***Co-Innovation in a Global Marketplace: 2022 - 2024***
+
+Globally, it is estimated that approximately 2.5 billion people would benefit from rehabilitation, but most people do not have access. Especially in Low- and Middle-income Countries where the need for rehabilitation services exceeds availability. The World Health Organisation promotes rehabilitation as a key 21st health strategy and an integral element in achieving Universal Health coverage.
+
+The Covid-19 pandemic showed the vulnerability of the present systems and the need for resilience and adaptability in changing environments. Joint action and research are needed to have feasible, appropriate, meaningful, and effective (digital) solutions  that directly empower people to manage their own health, wellbeing, and rehabilitation needs in different contexts globally. 
+
+The present project, funded by Business Finland, is a collaboration between JAMK University of Applied Sciences, Physiotools Ltd. and CSE Entertainment Ltd. The overall aim is to create new business opportunities through evidence-based research on the use of digital-first rehabilitation in different service and cultural contexts.
+ 
+ 
 ## Urban Lifestyle Engineering
 
 ***Healthier, happier and more sustainable cities: 2020-2021***
