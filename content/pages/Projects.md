@@ -2,13 +2,13 @@ Title: Projects
 Author: Michael Oduor
 
 ## DIRECT
-***Co-Innovation in a Global Marketplace: 2022 - 2024***
+***Co-innovation of digital rehabilitation in the global marketplace: 2022 - 2024***
 
 Globally, it is estimated that approximately 2.5 billion people would benefit from rehabilitation, but most people do not have access. Especially in Low- and Middle-income Countries where the need for rehabilitation services exceeds availability. The World Health Organisation promotes rehabilitation as a key 21st health strategy and an integral element in achieving Universal Health coverage.
 
 The Covid-19 pandemic showed the vulnerability of the present systems and the need for resilience and adaptability in changing environments. Joint action and research are needed to have feasible, appropriate, meaningful, and effective (digital) solutions  that directly empower people to manage their own health, wellbeing, and rehabilitation needs in different contexts globally. 
 
-The present project, funded by Business Finland, is a collaboration between JAMK University of Applied Sciences, Physiotools Ltd. and CSE Entertainment Ltd. The overall aim is to create new business opportunities through evidence-based research on the use of digital-first rehabilitation in different service and cultural contexts.
+The present project, funded by Business Finland, is a collaboration between JAMK University of Applied Sciences, <a href= "https://www.physiotools.com" target="_blank">Physiotools Ltd.</a> and <a href= "https://www.cse.fitness" target="_blank">CSE Entertainment Ltd.</a> The overall aim is to create new business opportunities through evidence-based research on the use of digital-first rehabilitation in different service and cultural contexts.
  
  
 ## Urban Lifestyle Engineering
@@ -18,6 +18,9 @@ The present project, funded by Business Finland, is a collaboration between JAMK
 Urban planning and public services face a number of common challenges. New strategies and models are needed for future urban environments to better respond to human needs, environmental conditions and market dynamics. The  project takes a human-centred and multidisciplinary approach to urban planning that is aimed at improving the delivery of services and the wellbeing and health of its citizens. This is by proposing the engineering of urban environments to promote sustainable and healthier behaviours and encourage socially inclusive practices. The expected impacts of the project are increased civic engagement, improved health of citizens, decrease in social exclusion and effective use of resources.  
 
 The project was supported by the <a href= "https://skr.fi/en/ajankohtaista/future-cities-boost-health-and-wellbeing" target="_blank">Finnish Cultural Foundation</a> from the <a href= "https://www.podoco.fi/news/17-new-podoco-doctors-receive-funding/" target="_blank">PoDoCo</a> foundation pool and is in collaboration with <a href="https://navico.fi/timo/" target="_blank">Timo Perälä</a> from Navico Oy.
+
+**Related Publication:**   
+Oduor, M., Perälä, T.: Interactive Urban Play to Encourage Active Mobility: Usability Study of a Web-Based Augmented Reality Application. Frontiers in Computer Science. 3, (2021).
 
 
 ## SEWEB
