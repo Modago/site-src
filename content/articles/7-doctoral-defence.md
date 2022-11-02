@@ -4,10 +4,11 @@ Tags: PhD, research, doctoral defence
 Slug: doctoral-defence
 Author: Michael O
 
-During my doctoral studies, I attended a few PhD defences. In the period closer to my defence, I made notes of the important points/questions raised whenever I attended any defence. Some opponents concentrate on the methodological approach and the rationale for the overall study, whereas others focus on the definition of terms and the practical implications of the research or a bit of both. As our group's research focuses on persuasive systems design and behaviour change, the opponent during one of my colleague's defence, asked for an actual situation where an application could change behaviour. This was not about one particular system, rather a broad overview of the effectiveness of persuasive systems.    
+During my doctoral studies, I attended a few PhD defences. Sometimes I made notes of the important points/questions raised whenever I attended any defence. Some opponents concentrate on the methodological approach and the rationale for the overall study, whereas others focus on the definition of terms and the practical implications of the research or a bit of both. As our group's research focuses on persuasive systems design and behaviour change, the opponent during one of my colleague's defence, asked for an actual situation where an application could change behaviour. This was not about one particular system, rather a broader view of the effectiveness of persuasive/behaviour change support systems.    
 
-Defences also differ in their format depending on the opponent. Some are like a debate whereas others are more of a conversation. In the former, the opponent tests the pressure points of the candidate and tries to gauge their responses to tough questions. The latter is a more relaxed setting where the opponent engages in a conversation with the candidate to understand their thought process during the doctoral studies and how the thesis developed. There are also opponents who preview the questions they have and their level of difficulty.    
-Some questions/issues that often come up in PhD defences include:
+Defences also differ in their format depending on the opponent. Some are like a debate whereas others are more of a conversation. In the former, the opponent tests the pressure points of the candidate and tries to gauge their responses to tough questions. The latter is a more relaxed setting where the opponent engages in a conversation with the candidate to understand their thought process during the doctoral studies and how the thesis process developed. There are also opponents who preview the planned questions and their level of difficulty.    
+
+Some questions/issues that often come up during PhD defences include:
 
 * Why did you engage in this area of research?
 * What did you hope to achieve from the research?
@@ -18,10 +19,12 @@ Some questions/issues that often come up in PhD defences include:
 * Why the focus on a particular topic and/or context?
 * Considering whether awareness of the research methodology is part of a researcher’s obligation.
 * Highlighting the gaps in literature that the research questions address. 
+
 * **Research perspective**  
 When thinking about the results, does culture, for example, play a role (depending on the type of research and the target population)? Consider the context of the research and how it might apply to different ethnic backgrounds.    
 Address the applicability of the research and to which audiences it applies — the key knowledge gap.
-* **Summary of the Studies**.  
+
+* **Summary of the Studies**  
 What would have happened if the studies were in reverse order?   
 What would it have done to the significance of the results and contributions of the work?   
 What are the most surprising findings from the studies done on [research topic]? In relation to the published work, the overall findings and the implications?
