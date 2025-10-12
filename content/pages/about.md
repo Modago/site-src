@@ -58,9 +58,7 @@ I also enjoy participating in voluntary activities. Over the years, I have been 
         <div class="col-sm-4">
           <h3>Find me online</h3>
           <ul class="list-group social">
-            <li class="list-group-item"><small><a href="https://twitter.com/oduorm"><i class="fa fa-twitter-square fa-lg"></i>Twitter</a></small></li>
             <li class="list-group-item"><small><a href="https://www.linkedin.com/in/michaeloduor/"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></small></li>
-            <li class="list-group-item"><small><a href="https://github.com/Modago"><i class="fa fa-github-square fa-lg"></i> GitHub</a></small></li>
           </ul> 
         </div>
       </div>

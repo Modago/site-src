@@ -57,9 +57,7 @@ AUTHOR_FEED_RSS = None
 LINKS = None
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/oduorm'),
-          ('LinkedIn', 'https://www.linkedin.com/in/michaeloduor/'),
-          ('GitHub', 'https://github.com/Modago'),
+SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/michaeloduor/'),
           ('GitLab', 'https://gitlab.fabcloud.org/academany/fabacademy/2019/labs/oulu/students/michael-oduor'),)
 
 #TWITTER_CARDS = True
