@@ -2,9 +2,9 @@ Title: Teaching
 Author: Michael Oduor
 
 ## Teaching and Tutoring
-I have assisted in tutoring international students in the GS3D masters programme from 2015.
+I assisted in tutoring international students in the GS3D masters programme from 2015-2019.
 
-Other teaching responsibilities have been in graduate education. I have taught and assisted in teaching courses such as Enterprise Systems, Emerging Technologies and Issues, Next Generation of the Web, Usability Testing and Systems Design Methods for Information Systems. Courses are framed on a knowledge base and incorporate hands-on learning, quizzes, exercises that build on each other, and individual work that aims to further motivate students’ learning. 
+Other teaching responsibilities have been in graduate education. I taught and assisted in courses such as Enterprise Systems, Emerging Technologies and Issues, Next Generation of the Web, Usability Testing and Systems Design Methods for Information Systems. The courses were framed on a knowledge base and incorporated hands-on learning, quizzes, exercises that build on each other, and individual work that aimed to further motivate students’ learning. 
 
 ### Course Listing 
 
