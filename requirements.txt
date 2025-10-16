@@ -19,7 +19,7 @@ rich==12.6.0
 six==1.14.0
 smartypants==2.0.1
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
-tornado==6.0.4
+tornado==6.5
 typing_extensions==4.4.0
 typogrify==2.0.7
 Unidecode==1.1.1
